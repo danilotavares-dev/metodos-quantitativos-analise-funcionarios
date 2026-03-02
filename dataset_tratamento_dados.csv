@@ -1,0 +1,22 @@
+ID,Nome,Cargo,Regiao,Salario,TempoEmpresa_anos,Avaliacao
+1,Ana Souza,Analista,Sudeste,4500.0,3,8.5
+2,Bruno Lima,Gerente,Sul,12000.0,8,9.2
+3,Carlos Mendes,Analista,Sudeste,4700.0,3,8.7
+4,Daniela Rocha,Estagiario,Nordeste,1500.0,1,7.5
+5,Eduardo Alves,Coordenador,Norte,9800.0,6,8.9
+6,Fernanda Costa,Analista,Sudeste,,4,8.1
+7,Gabriel Martins,Analista,Sudeste,4600.0,3,
+8,Helena Duarte,Gerente,Sul,12500.0,9,9.5
+9,Igor Freitas,Analista,Centro-Oeste,-3000.0,2,7.8
+10,Juliana Barros,Diretor,Sudeste,25000.0,12,9.8
+11,Kleber Nunes,Analista,Sudeste,4700.0,3,8.7
+11,Kleber Nunes,Analista,Sudeste,4700.0,3,8.7
+12,Larissa Teixeira,Coordenador,Nordeste,10200.0,7,8.4
+13,Marcos Silva,Tecnico,Sul,3900.0,5,7.9
+14,Natalia Gomes,Analista,Sudeste,200000.0,4,8.3
+15,Otavio Ribeiro,Estagiario,Sul,1400.0,1,6.9
+16,Patricia Moura,Analista,,4800.0,3,8.2
+17,Renato Cardoso,Gerente,Sudeste,13000.0,10,9.1
+18,Sandra Pires,Tecnico,Norte,4100.0,6,7.6
+19,Tiago Fernandes,Analista,Centro-Oeste,4550.0,3,8.0
+20,Vanessa Lopes,Coordenador,Sudeste,9900.0,7,8.8

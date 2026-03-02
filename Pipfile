@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 pandas = "*"
 ipykernel = "*"
+openpyxl = "*"
+seaborn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
